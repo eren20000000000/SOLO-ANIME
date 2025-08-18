@@ -391,3 +391,12 @@
                                         background: black;
                                        }
                                        }
+
+                                        .img__{
+                               height:200px;
+                               width:200px;
+                               margin-left: 3rem;
+                               margin-bottom: 2rem;
+                               padding-top:25px;
+                               background-color:black;
+                               }
